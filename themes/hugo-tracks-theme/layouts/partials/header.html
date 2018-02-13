@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="title-info text-center">
+      {{ with .Site.Title }}
+      <a href="/"> {{ . }} </a>
+      {{ end }}
+
+    </div>
+  </div>
+  <div class="col-md-14">
+    <div class="menu">
+      <a href="https://www.gamertrainer.co/">GamerTrainer </a>
+      <!-- {{ range $name, $taxonomy := .Site.Sections }}
+      {{ if ne $name "post" }}
+      <a href="/{{ $name | urlize }}">{{ $name }} / </a>
+      {{ end }}
+      {{ end }} -->
+    </div>
+  </div>
+
+</div>
