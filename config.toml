@@ -1,0 +1,13 @@
+baseURL = "http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com"
+languageCode = "en-us"
+title = "The Grind"
+theme = "hugo-tracks-theme"
+[params.social]
+# facebook      = "full page or profile url in facebook"
+# googleplus    = "full profile url in googleplus"
+# email         = "email@example.com"
+twitter       = "https://twitter.com/gamertrainerco"
+# linkedin      = "full profile url in linkedin"
+# stackoverflow = "full profile url in stackoverflow"
+instagram     = "https://www.instagram.com/gamertrainerco/"
+# github        = "full profile url in github"

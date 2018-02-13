@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Grind</title>
+    <link>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/</link>
+    <description>Recent content in Categories on The Grind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Promotional</title>
+      <link>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/promotional/</link>
+      <pubDate>Wed, 24 Jan 2018 17:55:07 -0800</pubDate>
+      
+      <guid>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/promotional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/student/</link>
+      <pubDate>Wed, 24 Jan 2018 17:55:07 -0800</pubDate>
+      
+      <guid>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trainer</title>
+      <link>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/trainer/</link>
+      <pubDate>Wed, 24 Jan 2018 17:55:07 -0800</pubDate>
+      
+      <guid>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/trainer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

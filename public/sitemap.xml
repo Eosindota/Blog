@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/post/welcometogt/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/post/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/promotional/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/student/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gamertrainer-blog.s3-website-us-east-1.amazonaws.com/categories/trainer/</loc>
+    <lastmod>2018-01-24T17:55:07-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
